@@ -1,5 +1,5 @@
 function deriv = vortex(t,p)
-
+%svortex2
 J = 10;
 c = 5;
 x = p(1);
